@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-g9pevk.oppatoto78ttd.site/sitemap.xml
